@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./inscriptionvmla00henzgoog/inscriptionvmla00henzgoog_0007.png"; bbox 0 0 4459 6525; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 695 1825 1905 2133">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 695 1825 1905 2133">
+     <span class='ocr_line' id='line_1_1' title="bbox 1597 1825 1609 1858; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1597 1825 1609 1858; x_wconf 70' lang='lat'><em>0</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 695 1911 1905 2133; baseline -0.014 -101"><span class='ocrx_word' id='word_1_2' title='bbox 695 1980 729 2031; x_wconf 72' lang='lat' dir='ltr'><em>s</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1004 2065 1007 2073; x_wconf 76' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1225 1911 1341 2077; x_wconf 37' lang='lat' dir='ltr'><strong>j)</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1426 1928 1905 2133; x_wconf 23' lang='lat' dir='ltr'><strong>‘J&#39;lcl&#39;1‚!l·j„:2ljph</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 588 2313 1756 2803">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 327 2313 1756 2897">
+     <span class='ocr_line' id='line_1_3' title="bbox 745 2313 1756 2487; baseline -0.013 -18"><span class='ocrx_word' id='word_1_6' title='bbox 745 2313 1461 2471; x_wconf 57' lang='lat' dir='ltr'>mscfflp&#39;moNvM&#39;</span> <span class='ocrx_word' id='word_1_7' title='bbox 1649 2354 1756 2487; x_wconf 58' lang='lat'><strong>295.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 588 2720 1540 2803; baseline -0.005 2.709"><span class='ocrx_word' id='word_1_8' title='bbox 588 2720 1013 2801; x_wconf 74' lang='lat' dir='ltr'><strong>bA&#39;l&#39;lNARVM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1067 2723 1540 2803; x_wconf 71' lang='lat' dir='ltr'><strong>SELECTARVM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 817 3048 1306 3113">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 817 3048 1306 3113">
+     <span class='ocr_line' id='line_1_5' title="bbox 817 3048 1306 3113; baseline -0.008 0"><span class='ocrx_word' id='word_1_10' title='bbox 817 3048 1045 3113; x_wconf 72' lang='lat' dir='ltr'><strong>AMPLISSIMA</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1077 3049 1306 3112; x_wconf 82' lang='lat' dir='ltr'>COLLECTIO.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 975 3581 1150 3646">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 975 3581 1150 3646">
+     <span class='ocr_line' id='line_1_6' title="bbox 975 3581 1150 3646; baseline 0 -2"><span class='ocrx_word' id='word_1_12' title='bbox 975 3581 1066 3646; x_wconf 88' lang='lat' dir='ltr'><strong>VOL.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1096 3582 1150 3644; x_wconf 85' lang='grc' dir='ltr'><strong>ΙΙΙ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2234 6516">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2234 6516">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 2234 6516; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2234 6516; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
